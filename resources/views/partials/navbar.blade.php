@@ -14,7 +14,7 @@
         </div>
         <div class="flex flex-col lg:flex-row">
           <a class="block px-4 py-3 lg:py-5 text-white self-center font-bold" href="">Login</a>
-          <a class="block px-4 py-3 lg:py-5 text-white self-center font-bold" href="">Daftar</a>
+          <a class="block px-4 py-3 lg:py-5 text-white self-center font-bold" href="/form/inputData">Daftar</a>
         </div>
       </div>
     </div>
